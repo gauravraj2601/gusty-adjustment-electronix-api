@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js" 
+    "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "gaurav",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.3"
