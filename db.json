@@ -221,7 +221,7 @@
     {
       "id": 7,
       "name": "Fitbit Charge 5",
-      "category": "wearable",
+      "category": "smartphone",
       "price": 179,
       "company": "Fitbit",
       "image": ["https://rukminim2.flixcart.com/image/612/612/kzd147k0/smart-band-tag/p/2/g/led-no-s-l-5-yes-no-charge-5-android-fitbit-yes-original-imagbe35qwuvhkk3.jpeg?q=70"],
@@ -291,7 +291,7 @@
     {
       "id": 9,
       "name": "GoPro Hero 9 Black",
-      "category": "action camera",
+      "category": "camera",
       "price": 349,
       "company": "GoPro",
       "image": ["https://rukminim2.flixcart.com/image/312/312/xif0q/sports-action-camera/p/t/g/-original-imags5eynazxppr7.jpeg?q=70"],
@@ -326,7 +326,7 @@
     {
       "id": 10,
       "name": "Amazon Echo Dot (4th Gen)",
-      "category": "smart speaker",
+      "category": "speaker",
       "price": 49,
       "company": "Amazon",
       "image": ["https://rukminim2.flixcart.com/image/612/612/kmxsakw0/mobile-skin/n/4/c/mdsh-skin-apr2021-4510-mudshi-original-imagfqhfahq4gw3p.jpeg?q=70"],
@@ -676,7 +676,7 @@
     {
       "id": 20,
       "name": "Bose SoundLink Revolve+",
-      "category": "portable speaker",
+      "category": "speaker",
       "price": 299,
       "company": "Bose",
       "image": ["https://rukminim2.flixcart.com/image/612/612/krs40i80/speaker/mobile-tablet-speaker/0/f/q/soundlink-revolve-ii-bose-original-imag5gf6mpfqftx5.jpeg?q=70"],
@@ -816,7 +816,7 @@
     {
       "id": 24,
       "name": "JBL Charge 5",
-      "category": "portable speaker",
+      "category": "speaker",
       "price": 179,
       "company": "JBL",
       "image": ["https://rukminim2.flixcart.com/image/612/612/kwmfqfk0/speaker/l/p/u/-original-imag993z4h5z5byp.jpeg?q=70"],
@@ -886,7 +886,7 @@
     {
       "id": 26,
       "name": "Apple AirPods Pro",
-      "category": "wireless earbuds",
+      "category": "headphones",
       "price": 249,
       "company": "Apple",
       "image": ["https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/0/p/w/pod-pro-true-wireless-gaming-earbuds-white-true-wireless-original-imagrafkt3gh9hcd.jpeg?q=70"],
@@ -1026,7 +1026,7 @@
     {
       "id": 30,
       "name": "Razer Blade 15",
-      "category": "gaming laptop",
+      "category": "laptop",
       "price": 1999,
       "company": "Razer",
       "image": ["https://rukminim2.flixcart.com/image/612/612/l1qrjbk0/screen-guard/screen-guard/k/s/v/rrr-175-kaca-original-imagd8ffhfgxvzwe.jpeg?q=70"],
