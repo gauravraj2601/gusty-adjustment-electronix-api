@@ -1058,5 +1058,12 @@
         }
       ]
     }
+  ],
+  "admin":[
+    {
+      "id":1,
+      "email":"admin@electronix.com",
+      "password":"admin"
+    }
   ]
 }
