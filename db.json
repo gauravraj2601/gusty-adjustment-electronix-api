@@ -21,7 +21,7 @@
           "reviewid": 101,
           "name": "John Doe",
           "text": "Best phone available at this price point. Camera is comparable with entry-level DSLR (marvelous dynamic range). The performance is unmatchable. Shifted to iOS after 10 years of premium Android smartphones. Go for it without any second thought.",
-          "rating": 5
+          "rating": 3
         },
         {
           "reviewid": 102,
@@ -33,7 +33,7 @@
           "reviewid": 103,
           "name": "Anthony",
           "text": "Awesome phone. Excellent camera quality.",
-          "rating": 5
+          "rating": 2
         }
       ]
     },
@@ -43,7 +43,7 @@
       "category": "smartphone",
       "price": 1099,
       "company": "Samsung",
-      "image": ["https://example.com/samsung-s21-ultra.jpg"],
+      "image": ["https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/t/r/-original-imaggj68cgtdacxn.jpeg?q=70"],
       "color": [
         "phantom black",
         "phantom silver",
@@ -84,7 +84,7 @@
       "category": "gaming console",
       "price": 499,
       "company": "Sony",
-      "image": ["https://example.com/sony-ps5.jpg"],
+      "image": ["https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/5/n/u/-original-imaghyykrhvewh4y.jpeg?q=70"],
       "color": ["white", "black"],
       "Highlights": [
         "AMD Ryzen Zen 2 Processor",
@@ -97,13 +97,13 @@
           "reviewid": 301,
           "name": "David",
           "text": "The PS5 is a powerhouse console with amazing graphics. The load times are incredibly fast, and the DualSense controller adds a new level of immersion.",
-          "rating": 5
+          "rating": 4
         },
         {
           "reviewid": 302,
           "name": "Rachel",
           "text": "I'm very impressed with the graphics and performance of the PS5. It's a must-have for any gaming enthusiast.",
-          "rating": 5
+          "rating": 3
         },
         {
           "reviewid": 303,
