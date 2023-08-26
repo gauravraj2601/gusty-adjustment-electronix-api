@@ -1065,5 +1065,12 @@
       "email":"admin@electronix.com",
       "password":"admin"
     }
+  ],
+  "users":[
+    {
+      "id":1,
+      "email":"akshay@gmail.com",
+      "password":"akshay123"
+    }
   ]
 }
