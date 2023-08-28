@@ -1069,6 +1069,7 @@
   "users":[
     {
       "id":1,
+      "name":"akshay",
       "email":"akshay@gmail.com",
       "password":"akshay123"
     }
